@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-demo-app-three-components/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-demo-app-three-components/static/js/main.cc204c96.chunk.js",
-    "main.js.map": "/react-demo-app-three-components/static/js/main.cc204c96.chunk.js.map",
+    "main.css": "/react-demo-app-three-components/static/css/main.6467fad5.chunk.css",
+    "main.js": "/react-demo-app-three-components/static/js/main.fea11c52.chunk.js",
+    "main.js.map": "/react-demo-app-three-components/static/js/main.fea11c52.chunk.js.map",
     "runtime-main.js": "/react-demo-app-three-components/static/js/runtime-main.0e76150b.js",
     "runtime-main.js.map": "/react-demo-app-three-components/static/js/runtime-main.0e76150b.js.map",
-    "static/js/2.4250e7d6.chunk.js": "/react-demo-app-three-components/static/js/2.4250e7d6.chunk.js",
-    "static/js/2.4250e7d6.chunk.js.map": "/react-demo-app-three-components/static/js/2.4250e7d6.chunk.js.map",
+    "static/js/2.6f2201ee.chunk.js": "/react-demo-app-three-components/static/js/2.6f2201ee.chunk.js",
+    "static/js/2.6f2201ee.chunk.js.map": "/react-demo-app-three-components/static/js/2.6f2201ee.chunk.js.map",
     "index.html": "/react-demo-app-three-components/index.html",
-    "precache-manifest.804b7126562923e61d99054bf5a132a8.js": "/react-demo-app-three-components/precache-manifest.804b7126562923e61d99054bf5a132a8.js",
+    "precache-manifest.55330b8326a56044098eddd9a0391fe3.js": "/react-demo-app-three-components/precache-manifest.55330b8326a56044098eddd9a0391fe3.js",
     "service-worker.js": "/react-demo-app-three-components/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-demo-app-three-components/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4250e7d6.chunk.js.LICENSE.txt": "/react-demo-app-three-components/static/js/2.4250e7d6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-demo-app-three-components/static/media/logo.5d5d9eef.svg"
+    "static/css/main.6467fad5.chunk.css.map": "/react-demo-app-three-components/static/css/main.6467fad5.chunk.css.map",
+    "static/js/2.6f2201ee.chunk.js.LICENSE.txt": "/react-demo-app-three-components/static/js/2.6f2201ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0e76150b.js",
-    "static/js/2.4250e7d6.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cc204c96.chunk.js"
+    "static/js/2.6f2201ee.chunk.js",
+    "static/css/main.6467fad5.chunk.css",
+    "static/js/main.fea11c52.chunk.js"
   ]
 }
